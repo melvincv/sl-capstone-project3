@@ -6,7 +6,7 @@ package com.melvincv.springbootcrudapp.controller;
 import com.melvincv.springbootcrudapp.entity.Department;
 import com.melvincv.springbootcrudapp.service.DepartmentService;
 import java.util.List;
-// import javax.validation.Valid;
+import javax.validation.Valid;
 // Importing required classes
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
